@@ -9,3 +9,6 @@ pip install fastapi[standard]
 ```
 fastapi dev main.py
 ```
+
+## Step 3 - Go to url
+http://127.0.0.1:8000/ethereum
